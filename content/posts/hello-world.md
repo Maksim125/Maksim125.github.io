@@ -7,6 +7,9 @@ title = 'Hello World'
 ## My first post
 
 Let's see what we can do 🙂
+This section is preview.
+
+<!--more-->
 
 Images?
 
